@@ -10,4 +10,4 @@ This is my very first project in Data Analysis and being a huge football fan, I 
 
 `Part II - FIFA_WC.sql` - Continuing with data validation. I created a table for validation and imported all Excel CSV data into my relational database system (PostgreSQL). I also wrote queries which determined most of the countries' statistics in the tournaments from 2002-2022. Queries like 'Countries with most: Appearances, Goals, Games played, Points won' and more. 
 
-`Part III - FIFA Data Exploration` - With this folder, you will find my analysis and visualizations of the stats. I started off by analyzing the most common stats with Postgres queries. Prior to that, I started visulizing with Pivot Tables in Excel and making a temporary dashboard before concluding visualizations in Tableau.
+`Part III - Data Explore` - With this folder, you will find my analysis and visualizations of the stats. I started off by analyzing the most common stats with Postgres queries. Prior to that, I started visulizing with Pivot Tables in Excel and making a temporary dashboard before concluding visualizations in Tableau.
