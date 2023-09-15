@@ -1,6 +1,6 @@
 # FIFA World Cup Countries Stats [21ST CENTURY] 
 ## by BEKO
-**Date last Updated: 13th Sept. 2023**
+**Date last Updated: 15th Sept. 2023**
 ![FIFA](https://assets.architecturaldigest.in/photos/60082342345ead69c9c1aeb6/16:9/w_1920,c_limit/FIFA-2018-World-Cup-Featured-1366x768.jpg)
 
 ## Summary of Project
