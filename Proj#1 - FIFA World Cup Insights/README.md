@@ -31,3 +31,9 @@ Pivot tables helped me to summarize my datasets by grouping and summing the data
 These charts were auto-generated from the Pivot tables and how various pivot fields were grouped. Countries and World Cup years were placed into the Filter field in the process.
 ![Chart1](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart1.png?raw=true)
 ![Chart2](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart2.png?raw=true)
+
+## Excel Dashboard
+![Excel](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Dashboard.png?raw=true)
+
+# 2 - Stats exported from PostgreSQL
+The most common statistics from the various tournaments were queried from SQL and the results were exported. Statistics showed the perfomance of the numerous participating countries.
