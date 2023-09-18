@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-My simple data portfolio to showcase my projects relating to all things data.
+My data portfolio to showcase my projects relating to anything and everything data.
 
 ## Introduction
 Hello!
