@@ -36,4 +36,6 @@ These charts were auto-generated from the Pivot tables and how various pivot fie
 ![Excel](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Dashboard.png?raw=true)
 
 # 2 - Stats exported from PostgreSQL
-The most common statistics from the various tournaments were queried from SQL and the results were exported. Statistics showed the perfomance of the numerous participating countries.
+The most common statistics from the various tournaments were queried from SQL and the results were exported. The queried statistics showed the perfomance of the numerous participating countries and the difficulty of all 6 editions of the tournament.
+## Data Imported Into SQL from Excel
+![data](https://github.com/beko50/Portfolio/edit/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
