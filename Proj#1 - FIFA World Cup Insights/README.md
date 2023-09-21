@@ -39,3 +39,11 @@ These charts were auto-generated from the Pivot tables and how various pivot fie
 The most common statistics from the various tournaments were queried from SQL and the results were exported. The queried statistics showed the perfomance of the numerous participating countries and the difficulty of all 6 editions of the tournament.
 ## Data Imported Into SQL from Excel
 ![data](https://github.com/beko50/Portfolio/edit/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
+## BEST offense_Goals scored per Game
+![offense](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20offense_Goals%20scored%20per%20Game.csv)
+## Countries with BEST Win Percentages
+![win%](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20win%20percentages.csv)
+## Countries Wins, Draws and Losses
+![WDL](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Countries%20Wins%2C%20Draws%20and%20Losses.csv)
+## MOST goals scored in 21st Century
+![goals](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20goals%20scored%2021st%20Century.csv)
