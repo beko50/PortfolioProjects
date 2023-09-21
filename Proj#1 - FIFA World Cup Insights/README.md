@@ -47,3 +47,7 @@ The most common statistics from the various tournaments were queried from SQL an
 ![WDL](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Countries%20Wins%2C%20Draws%20and%20Losses.csv)
 ## MOST goals scored in 21st Century
 ![goals](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20goals%20scored%2021st%20Century.csv)
+## Countries with MOST points accumulated
+![points](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20points%20accumulated.csv)
+## Number of appearances
+![apps](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20appearances.csv)
