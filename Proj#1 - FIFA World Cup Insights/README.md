@@ -39,8 +39,12 @@ These charts were auto-generated from the Pivot tables and how various pivot fie
 The most common statistics from the various tournaments were queried from SQL and the results were exported. The queried statistics showed the perfomance of the numerous participating countries and the difficulty of all 6 editions of the tournament.
 ## Data Imported Into SQL from Excel
 ![data](https://github.com/beko50/Portfolio/edit/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
+## Number of participating countries in 21st century
+![countries](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20participating%20countries.csv)
 ## BEST offense_Goals scored per Game
 ![offense](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20offense_Goals%20scored%20per%20Game.csv)
+## WORST defense_Goals conceded per Game
+![defense](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Worst%20defense_Goals%20conceded%20per%20Game.csv)
 ## Countries with BEST Win Percentages
 ![win%](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20win%20percentages.csv)
 ## Countries Wins, Draws and Losses
@@ -51,3 +55,5 @@ The most common statistics from the various tournaments were queried from SQL an
 ![points](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20points%20accumulated.csv)
 ## Number of appearances
 ![apps](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20appearances.csv)
+## Tournament with MOST goals
+![tournament](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Tournament%20with%20most%20goals.csv)
