@@ -74,3 +74,6 @@ My final analysis were done in Tableau were I was able to visualize the data by 
 
 `Storytelling.png` - This aspect tells the details on the dashboards I created earlier. Four detailed stories for the FIFA World Cup in the 21st Century.
 ![Dashboard_3](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/Tableau/Storytelling.png)
+
+## Win % Formula
+![formula](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/Tableau/Tableau%20formula.png)
