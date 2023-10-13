@@ -8,7 +8,7 @@ This is my very first project in Data Analysis and being a huge football fan, I 
 
 `Part I - FIFA WC Insights.csv` - To begin with the cleaning process, some steps I took were adding and dropping columns and dealing with null values. Also, the countries column needed cleaning with duplicates such as United States and USA in the original datasets. These were all done in Excel after which I merged datasets I needed (2002-2022) from different workbooks into one simple worksheet. 
 
-`Part II - FIFA_WC.sql` - Continuing with data validation. I created a table for validation and imported all Excel CSV data into my relational database (PostgreSQL). I also wrote queries which determined most of the countries' statistics in the tournaments from 2002-2022. Queries like 'Countries with most: Appearances, Goals, Games played, Points won' and more. 
+`Part II - FIFA_WC.sql` - Continuing with data validation. I created a table for validation and imported all Excel CSV data into my relational database system (PostgreSQL). I also wrote queries which determined most of the countries statistics in the tournaments from 2002-2022. Queries like 'Countries with most: Appearances, Goals, Games played, Points won' and more. 
 
 `Part III - Data Explore` - With this folder, you will find my analysis and visualizations of the stats. I started off by analyzing the most common stats with Postgres queries. Prior to that, I started visulizing with Pivot Tables in Excel and making a temporary dashboard before concluding visualizations in Tableau.
 
