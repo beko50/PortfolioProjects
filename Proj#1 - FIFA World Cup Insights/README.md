@@ -12,7 +12,7 @@ This is my very first project in Data Analysis and being a huge football fan, I 
 
 `Part III - Data Explore` - With this folder, you will find my analysis and visualizations of the stats. I started off by analyzing the most common stats with Postgres queries. Prior to that, I started visulizing with Pivot Tables in Excel and making a temporary dashboard before concluding visualizations in Tableau.
 
-# 1 - Pivot Tables, Charts and Dashboard
+# 1 - PIVOT TABLES, CHARTS AND EXCEL DASHBOARD
 ## MS Excel Analysis
 Data was organized with datasets from 2002 to 2022. My initial analysis were as follows:
 
@@ -35,7 +35,8 @@ These charts were auto-generated from the Pivot tables and how various pivot fie
 ## Excel Dashboard
 ![Excel](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Dashboard.png?raw=true)
 
-# 2 - Stats exported from PostgreSQL
+
+# 2 - STATS EXPORTED FROM POSTGRESQL
 The most common statistics from the various tournaments were queried from SQL and the results were exported. The queried statistics showed the perfomance of the numerous participating countries and the difficulty of all 6 editions of the tournament.
 ## Data Imported Into SQL from Excel
 [Data Imported Into PostgreSQL](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
@@ -57,3 +58,6 @@ The most common statistics from the various tournaments were queried from SQL an
 [Most Points](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20points%20accumulated.csv)
 ## Tournament with MOST goals
 [Tournament](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Tournament%20with%20most%20goals.csv)
+
+
+# 3 - TABLEAU VISUALIZATIONS
