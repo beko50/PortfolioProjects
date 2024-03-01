@@ -25,12 +25,12 @@ Data was organized with datasets from 2002 to 2022. My initial analysis were as 
 ## Pivot Table
 Pivot tables helped me to summarize my datasets by grouping and summing the data fields(Games Played, Points and Wins)
 
-![Pivot Table](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Pivot_Table.png?raw=true)
+![Pivot Table](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Pivot_Table.png)
 
 ## Pivot Charts
 These charts were auto-generated from the Pivot tables and how various pivot fields were grouped. Countries and World Cup years were placed into the Filter field in the process.
-![Chart1](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart1.png?raw=true)
-![Chart2](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart2.png?raw=true)
+![Chart1](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart1.png)
+![Chart2](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/PivotChart2.png)
 
 ## Excel Dashboard
 ![Excel](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/MS_Excel/Dashboard.png?raw=true)
