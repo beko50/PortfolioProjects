@@ -39,25 +39,25 @@ These charts were auto-generated from the Pivot tables and how various pivot fie
 # 2 - STATS EXPORTED FROM POSTGRESQL
 The most common statistics from the various tournaments were queried from SQL and the results were exported. The queried statistics showed the perfomance of the numerous participating countries and the difficulty of all 6 editions of the tournament.
 ## Data Imported Into SQL from Excel
-[Data Imported Into PostgreSQL](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
+[Data Imported Into PostgreSQL](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/1-Data%20import%20from%20excel.csv)
 ## Number of participating countries in 21st century
-[Participating Countries](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20participating%20countries.csv)
+[Participating Countries](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20participating%20countries.csv)
 ## Number of appearances
-[Apps](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20appearances.csv)
+[Apps](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Number%20of%20appearances.csv)
 ## BEST offense_Goals scored per Game
-[Best Offense](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20offense_Goals%20scored%20per%20Game.csv)
+[Best Offense](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20offense_Goals%20scored%20per%20Game.csv)
 ## WORST defense_Goals conceded per Game
-[Worst Defense](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Worst%20defense_Goals%20conceded%20per%20Game.csv)
+[Worst Defense](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Worst%20defense_Goals%20conceded%20per%20Game.csv)
 ## Countries with BEST Win Percentages
-[Best win%](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20win%20percentages.csv)
+[Best win%](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Best%20win%20percentages.csv)
 ## Countries Wins, Draws and Losses
-[W,D,L](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Countries%20Wins%2C%20Draws%20and%20Losses.csv)
+[W,D,L](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Countries%20Wins%2C%20Draws%20and%20Losses.csv)
 ## MOST goals scored in 21st Century
-[Most goals](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20goals%20scored%2021st%20Century.csv)
+[Most goals](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20goals%20scored%2021st%20Century.csv)
 ## Countries with MOST points accumulated
-[Most Points](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20points%20accumulated.csv)
+[Most Points](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Most%20points%20accumulated.csv)
 ## Tournament with MOST goals
-[Tournament](https://github.com/beko50/Portfolio/blob/main/Proj%231%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Tournament%20with%20most%20goals.csv)
+[Tournament](https://github.com/beko50/Portfolio/blob/main/Project_1%20-%20FIFA%20World%20Cup%20Insights/Data%20Explore/PostgreSQL/Tournament%20with%20most%20goals.csv)
 
 
 # 3 - TABLEAU VISUALIZATIONS
