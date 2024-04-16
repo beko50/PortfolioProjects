@@ -23,3 +23,5 @@ This is my very first project in my Data Analysis journey and being a huge footb
 For this project, I explored and analyzed data in an e-commerce field. This project is finance-based and designed to identify KPIs and trending metrics including the sales, returns, monthly, yearly targets and profits of Biking accessories in North America, Europe and the Pacific continents. Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**
 
 The skills I've focused on in this project are data cleaning and data exploration(analysis and exploration) with Power BI. The link to this project is provided: 
+The questions asked for this analysis are:
+
