@@ -19,10 +19,9 @@ My data journey began right after I completed my Bachelor's degree in Computer E
 ### Project_1 - FIFA World Cup Insights
 This is my very first project in my Data Analysis journey and being a huge football fan, I decided to start with the simplest datasets I found on **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset)** website, which contains all previous editions from 1930 to 2022. I went ahead with analyzing football in the 21st Century (2002-2022) because the game has vastly changed and these were the ones I experienced mostly. The FIFA World Cup tournament takes place every 4 years with 32 qualified countries worldwide partaking in it. I also added a new column 'Win Rate' to analyze the performance of these countries in a selected period. I started working with the datasets in Microsoft Excel before importing them into PostgreSQL and making visualizations with Tableau. 
 
-### Project_2 - E-Commerce Analytics
-For this project, I explored and analyzed data in an e-commerce field. This project is finance-based and designed to identify KPIs and trending metrics including the sales, returns, monthly, yearly targets and profits of Biking accessories in North America, Europe and the Pacific continents. Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**
+### Project_2 - Biking Accessories Analysis
+For this project, I explored and analyzed data in an e-commerce field. I aimed for KPIs and trending metrics including the sales, returns, monthly, yearly targets and profits of biking accessories in North America, Europe and the Pacific. Following the March 2020 COVID-19 pandemic, millions of people worldwide looked for alternate methods to move around and stay active when gyms shut down and public transportation became unsafe. In the U.S., consumer spending on bicycles and accessories peaked in 2021, according to adjusted figures from the *U.S. Bureau of Economic Analysis*.  Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**
 
-The skills I've focused on in this project are data cleaning and data exploration(analysis and exploration) with Power BI. The link to this project is provided: 
-The questions asked for this analysis are:
+The skills I've focused on in this project are data cleaning and data exploration(analysis and exploration) with Power BI. Additionally, there are questions I have asked and answered after building the dashboards.
 
 ### Project_2 - HR Attrition Analysis with Jupyter Notebooks
