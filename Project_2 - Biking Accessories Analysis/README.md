@@ -9,4 +9,3 @@ Being an e-commerce project, this study aims to track the sales and revenue patt
 
 Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**. Sales and return data are available for the period between 01/01/2020 and 30/06/2022. 
 
-<img alt="Bike Accessories Dashboard" src="images/screenshots/exec_dashboard.gif">
