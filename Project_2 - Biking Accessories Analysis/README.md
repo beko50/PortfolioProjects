@@ -28,17 +28,22 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 
 <img alt="data cleaning" src="Images/data_cleaning.png" width="900" height="350">
 
-`Data Modeling` - 
+`Data Modeling` - After the cleaning and transformation process, I created relationships among the 8 tables loaded into Power BI. These tables were grouped into 2 Fact tables (Sales & Return Data) and the other 6 were Dimension/Lookup tables. To create these table relationships, I established primary and foreign keys for all the tables for modeling. I used the Snowflake model schema for my data modeling since there were 2 Fact tables and multiple sub-dimension tables. 
 
 <img alt="data modeling" src="Images/data_modeling.png" width="900" height="350">
 
-`Calculated Columns and DAX Measures` - 
+`DAX - Calculated Columns and Measures` - I used DAX for both my Calculated Columns and Measures. 
+
+I used the Calculated Columns for new columns that needed filtering. From the screenshot below, I wrote a simple DAX code to filter my customers based on their annual income. This was to provide insights into the purchasing behaviors and preferences of 'High', 'Average' and 'Low' income customers. 
 
 <img alt="calculated columns" src="Images/CC.png" width="900" height="350">
 
+For columns that needed aggregating, I used DAX measures. Metrics like Total Profits, Revenue, Return Rate were all calculated with DAX measures which are not seen in tables but only when creating visuals. Calculated Columns, on the other hand, are visible in tables and data view.
+
 <img alt="measures" src="Images/Measures.png" width="900" height="350">
 
-`Building Interactive Dashboard` - 
+
+# Building Interactive Dashboards
 <img alt="Bike Accessories Dashboard" src="Images/PBIDesktop_BikeAccessories.gif" width="800" height="400">
 
 ## Key Features
@@ -47,4 +52,6 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 - Compare performance across different countries.
 - Analyse product-level trends.
 - Identify high-value customers.
+
+# INSIGHTS
 
