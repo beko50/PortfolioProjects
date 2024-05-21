@@ -10,7 +10,7 @@ Being an e-commerce project, this study aims to track the sales and revenue patt
 Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**. Sales and return data are available for the period between 01/01/2020 and 30/06/2022. 
 
 ## Key Steps
-`Data Preparation` - Files were downloaded in CSV format. I then duplicated all these files and began preparing my data in Microsoft Excel. To develop key insights from my analysis, I came up with some key business questions. 
+`Data Preparation` - Files were downloaded in CSV format. I then duplicated all these files and began preparing my data in Microsoft Excel. To develop key insights from my analysis, I came up with some critical business questions. 
 - Which biking accessories generate the most revenue?
 - What is the revenue trend over different time periods (monthly, quarterly, annually)?
 - Who are the top customers based on total revenue generated?
@@ -22,23 +22,23 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 
 `Querying and transforming raw data` - I imported the CSV files directly into Power BI using the 'Get Data' option. After the CSV files were loaded or transformed, Power BI platform reads each file as Tables in the column and row structure. I always transformed the data to make the data-cleaning process easier before loading the datasets. 
 
-<img alt="etl" src="Images/ETL.png" width="900" height="350"> 
+<img alt="etl" src="Images/ETL.png"> 
 
-`Data Cleaning` - Most of my data cleaning process was done in Power Query Editor. From the image below, after assessing the quality of my datasets, I noticed some tables had empty and duplicated rows. I removed these rows and other columns that were not necessary for analysis. There were also instances of wrong data types in most cases. In the case of the Annual Income of customers, I converted the values from text to whole number data type. Also, the pre-loaded tables used the US date format. To get used to the data, I modified this to my default date which was in the UK format.
+`Data Cleaning` - A large part of my data cleaning process was done in Power Query. From the image below, after assessing the quality of my datasets, I noticed some tables had empty and duplicated rows. I removed these rows and other columns that were not necessary for analysis. There were also instances of wrong data types in most cases. In the case of the Annual Income of customers, I converted the values from text to whole number data type. Also, the pre-loaded tables used the US date format. To familiarize myself with the time periods of the datasets, I modified this to my default date which was in the UK format.
 
-<img alt="data cleaning" src="Images/data_cleaning.png" width="900" height="350">
+<img alt="data cleaning" src="Images/data_cleaning.png">
 
 `Data Modeling` - After the cleaning and transformation process, I created relationships among the 8 tables loaded into Power BI. These tables were grouped into 2 Fact tables (Sales & Return Data) and the other 6 were Dimension/Lookup tables. To create these table relationships, I established primary and foreign keys for all the tables for modeling. I used the Snowflake model schema for my data modeling since there were 2 Fact tables and multiple sub-dimension tables. 
 
 <img alt="data modeling" src="Images/data_modeling.png" width="900" height="350">
 
-`DAX - Calculated Columns and Measures` - I used DAX for both my Calculated Columns and Measures. 
+`DAX - Calculated Columns and Measures` - I applied DAX formula for both my Calculated Columns and Measures. 
 
-I used the Calculated Columns for new columns that needed filtering. From the screenshot below, I wrote a simple DAX code to filter my customers based on their annual income. This was to provide insights into the purchasing behaviors and preferences of 'High', 'Average' and 'Low' income customers. 
+I used the Calculated Columns for new columns that required filtering. From the screenshot below, I wrote a simple DAX code to filter my customers based on their annual income. This was to provide insights into the purchasing behaviors and preferences of 'High', 'Average' and 'Low' income customers. 
 
 <img alt="calculated columns" src="Images/CC.png" width="900" height="350">
 
-For columns that needed aggregating, I used DAX measures. Metrics like Total Profits, Revenue, Return Rate were all calculated with DAX measures which are not seen in tables but only when creating visuals. Calculated Columns, on the other hand, are visible in tables and data view.
+For columns that needed aggregating, I used DAX Measures. Metrics like Total Profits, Revenue, Return Rate were all calculated with DAX measures which are not seen in the tables but only when creating visuals. Calculated Columns, on the other hand, are visible in tables and data view.
 
 <img alt="measures" src="Images/Measures.png" width="900" height="350">
 
