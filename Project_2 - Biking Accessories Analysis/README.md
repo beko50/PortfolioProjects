@@ -43,6 +43,9 @@ For columns that needed aggregating, I used DAX Measures. Metrics like Total Pro
 
 
 # Building Interactive Dashboards
+
+Complete dashboard reports can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiYTA1NTNiMDUtOTYzMC00OWE2LTlkYWMtZGI0NGUyYTBlNWIxIiwidCI6ImI3MzJiMjU5LWU5ZDgtNDg3Ni04N2ExLWQ3YTVhODU1ODY4MCJ9)
+
 <img alt="Bike Accessories Dashboard" src="Images/PBIDesktop_BikeAccessories.gif">
 
 ## Key Features
