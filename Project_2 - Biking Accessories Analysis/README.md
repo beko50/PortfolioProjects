@@ -75,4 +75,16 @@ For columns that needed aggregating, I used DAX Measures. Metrics like Total Pro
 7. In 2022, we saw an all-time high returns value at 960. This indicates that in 2022, profits decreased by 2.02% compared to 2021, the year in which we achieved our highest profit levels. When a biking accessory or product is returned and a refund is issued, the company loses the revenue from that sale. This directly reduces the profits and revenue.
 
 <img alt="returns" src="Images/returns.png">
+
+# RECOMMENDATIONS
+
+Based on my insights, I would recommend that BernCycle & Gears Company:
+
+1. Focus on replicating the profitable US & Australian marketing strategies in the least revenue-generating countries (Canada, Germany, France and the UK)
+
+2. Take a closer look on mitigating the higher return rates of cycling equipment and accessories. First step will be providing detailed and accurate product descriptions and images to ensure customers have realistic expectations, so as to reduce the return rates.
+
+3. Introduce reward points for top-performing customers based on the main metrics such as total Orders and Revenue. This will most likely encourage low-performing customers in other categories to place in more orders.
+
+4. Increase production and marketing of top revenue-generating product categories and sub-categories. Bikes specifically mountain bikes could be paired with other accessories as bundle offers to mazimize sales and profits.
     
