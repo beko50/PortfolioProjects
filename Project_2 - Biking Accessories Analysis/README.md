@@ -11,14 +11,13 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 
 ## Key Steps
 `Data Preparation` - Files were downloaded in CSV format. I then duplicated all these files and began preparing my data in Microsoft Excel. To develop key insights from my analysis, I came up with some critical business questions. 
-- Which biking accessories generate the most revenue?
+- Which biking equipment generate the most revenue?
 - What is the revenue trend over different time periods (monthly, quarterly, annually)?
-- Who are the top customers based on total revenue generated?
-- Which customer segments contribute the most to profits?
-- What is the demographic profile of the customer base (age, gender, location)?
+- Which geographic territory of the customer base made the most orders and revenue?
+- Who are the top customers based on orders, revenue, occupation and income level?
 - Are there any patterns in order times (day of the week, time of day)?
 - What is the profit trend over different time periods?
-- How do returns and refunds affect profits?
+- How do returns affect profits?
 
 `Querying and transforming raw data` - I imported the CSV files directly into Power BI using the 'Get Data' option. After the CSV files were loaded or transformed, Power BI platform reads each file as Tables in the column and row structure. I always transformed the data to make the data-cleaning process easier before loading the datasets. 
 
@@ -55,3 +54,25 @@ For columns that needed aggregating, I used DAX Measures. Metrics like Total Pro
 
 # INSIGHTS
 
+1. The main categories of Biking equipment were Bikes, Components, Clothing and Accessories. The Bikes product category generated the most revenue and was also the most profitable. However, most orders were placed in the Accessories product category.
+
+2. Approximately $24.9 million in revenue and $10.5 million in profit was generated between 01/01/2020 and 30/06/2022. However, there is a significant dip in revenue between 01/06/2020 and 01/11/2020 (possibly due to the simulated impact of the COVID-19 pandemic), after which revenue appears to grow linearly. In the first week of December 2021, revenue saw an exceptional increase, reaching $1.64 million. This was due to a highly successful seasonal campaign, most likely a Black Friday promotion or a Christmas promotion? 
+
+<img alt="revenue" src="Images/revenue.png"> 
+
+3. The USA had 8,700 orders placed while France (2,315 orders) had the least. However, based on revenue, the USA generated $7.94 million while Canada generated the least about $1.77 million.
+
+4. Mr. Maurice Shan was the top customer for BernCycle Gears Company in terms of revenue earned($12,408). Based on the most orders placed, there were 5 top customers, each with 26 orders. Customers in the Professional occupation sector put in the most orders(7,925). Customers with average income (between $50k and $100k) also put in significant orders(11,600).
+
+5. 85.4% of the total orders were placed on Weekdays, and the remaining 14.6% were placed on Weekends. The reason for this ordering behavior by customers might be due to shipping and delivery times. Orders placed during the weekdays are processed and shipped faster as most customers will prefer faster delivery.
+
+<img alt="weekday" src="Images/weekday.png">
+
+6. Profits for BernCycle Gears Company peaked in 2021 ($3.97 million). There was a significant 52.48% profit increase from the previous year.
+
+<img alt="profit" src="Images/profit.png">
+   
+7. In 2022, we saw an all-time high returns value at 960. This indicates that in 2022, profits decreased by 2.02% compared to 2021, the year in which we achieved our highest profit levels. When a biking accessory or product is returned and a refund is issued, the company loses the revenue from that sale. This directly reduces the profits and revenue.
+
+<img alt="returns" src="Images/returns.png">
+    
