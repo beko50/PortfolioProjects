@@ -29,21 +29,21 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 
 `Data Modeling` - After the cleaning and transformation process, I created relationships among the 8 tables loaded into Power BI. These tables were grouped into 2 Fact tables (Sales & Return Data) and the other 6 were Dimension/Lookup tables. To create these table relationships, I established primary and foreign keys for all the tables for modeling. I used the Snowflake model schema for my data modeling since there were 2 Fact tables and multiple sub-dimension tables. 
 
-<img alt="data modeling" src="Images/data_modeling.png" width="900" height="350">
+<img alt="data modeling" src="Images/data_modeling.png">
 
 `DAX - Calculated Columns and Measures` - I applied DAX formula for both my Calculated Columns and Measures. 
 
 I used the Calculated Columns for new columns that required filtering. From the screenshot below, I wrote a simple DAX code to filter my customers based on their annual income. This was to provide insights into the purchasing behaviors and preferences of 'High', 'Average' and 'Low' income customers. 
 
-<img alt="calculated columns" src="Images/CC.png" width="900" height="350">
+<img alt="calculated columns" src="Images/CC.png">
 
 For columns that needed aggregating, I used DAX Measures. Metrics like Total Profits, Revenue, Return Rate were all calculated with DAX measures which are not seen in the tables but only when creating visuals. Calculated Columns, on the other hand, are visible in tables and data view.
 
-<img alt="measures" src="Images/Measures.png" width="900" height="350">
+<img alt="measures" src="Images/Measures.png">
 
 
 # Building Interactive Dashboards
-<img alt="Bike Accessories Dashboard" src="Images/PBIDesktop_BikeAccessories.gif" width="800" height="400">
+<img alt="Bike Accessories Dashboard" src="Images/PBIDesktop_BikeAccessories.gif">
 
 ## Key Features
 
@@ -64,7 +64,7 @@ For columns that needed aggregating, I used DAX Measures. Metrics like Total Pro
 
 4. Mr. Maurice Shan was the top customer for BernCycle Gears Company in terms of revenue earned($12,408). Based on the most orders placed, there were 5 top customers, each with 26 orders. Customers in the Professional occupation sector put in the most orders(7,925). Customers with average income (between $50k and $100k) also put in significant orders(11,600).
 
-5. 85.4% of the total orders were placed on Weekdays, and the remaining 14.6% were placed on Weekends. The reason for this ordering behavior by customers might be due to shipping and delivery times. Orders placed during the weekdays are processed and shipped faster as most customers will prefer faster delivery.
+5. 85.4% of the total orders were placed on Weekdays, and the remaining 14.6% were placed on Weekends. The reason for this purchasing behavior by customers might be due to shipping and delivery times. Orders placed during the weekdays are processed and shipped faster as most customers will prefer faster delivery.
 
 <img alt="weekday" src="Images/weekday.png">
 
