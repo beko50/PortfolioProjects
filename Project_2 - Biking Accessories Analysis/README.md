@@ -9,9 +9,9 @@ Being an e-commerce project, this study aims to track the sales and revenue patt
 
 Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)**. Sales and return data are available for the period between 01/01/2020 and 30/06/2022. 
 
-## Key Steps
-`Data Preparation` - Files were downloaded in CSV format. I then duplicated all these files and began preparing my data in Microsoft Excel. To develop key insights from my analysis, I came up with some critical business questions. 
-- Which biking equipment generate the most revenue?
+## Key Objectives
+I came up with some critical business questions for this project.
+- Which biking product category generate the most revenue?
 - What is the revenue trend over different time periods (monthly, quarterly, annually)?
 - Which geographic territory of the customer base made the most orders and revenue?
 - Who are the top customers based on orders, revenue, occupation and income level?
@@ -19,7 +19,10 @@ Datasets were obtained from **[Kaggle](https://www.kaggle.com/datasets/algorismu
 - What is the profit trend over different time periods?
 - How do returns affect profits?
 
-`Querying and transforming raw data` - I imported the CSV files directly into Power BI using the 'Get Data' option. After the CSV files were loaded or transformed, Power BI platform reads each file as Tables in the column and row structure. I always transformed the data to make the data-cleaning process easier before loading the datasets. 
+## Key Steps
+`Data Collection` - The datasets were downloaded in CSV format. I then created duplicates of these files and began preparing the datasets in Microsoft Excel for further analysis in Power BI.
+
+`Querying and transforming raw data` - I imported the CSV files directly into Power BI using the 'Get Data' option. After the datasets are loaded or transformed, Power BI platform reads each file as Tables in the column and row structure. I always transformed the data to make the data-cleaning process easier before loading the datasets. 
 
 <img alt="etl" src="Images/ETL.png"> 
 
@@ -57,7 +60,7 @@ Complete dashboard reports can be viewed [here](https://app.powerbi.com/view?r=e
 
 # INSIGHTS
 
-1. The main categories of Biking equipment were Bikes, Components, Clothing and Accessories. The Bikes product category generated the most revenue and was also the most profitable. However, most orders were placed in the Accessories product category.
+1. The main categories of Biking equipment were Bikes, Components, Clothing and Accessories. The Bikes category generated the most revenue and was also the most profitable. However, most orders were placed in the Accessories category.
 
 2. Approximately $24.9 million in revenue and $10.5 million in profit was generated between 01/01/2020 and 30/06/2022. However, there is a significant dip in revenue between 01/06/2020 and 01/11/2020 (possibly due to the simulated impact of the COVID-19 pandemic), after which revenue appears to grow linearly. In the first week of December 2021, revenue saw an exceptional increase, reaching $1.64 million. This was due to a highly successful seasonal campaign, most likely a Black Friday promotion or a Christmas promotion? 
 
