@@ -24,8 +24,15 @@ For this project, I chose to analyze data within the e-commerce sector, focusing
 
 The skills I've focused on in this project are data cleaning and data exploration(analysis and exploration) with Power BI. Additionally, there are questions I have asked and answered after building the dashboards.
 
-### Project_2 - HR Analytics: Employee Attrition
+### Project_3 - HR Analytics: Employee Attrition
 In this HR analytics project using Python, the focus was on understanding employee attrition within any organization. I analyzed employee data to identify patterns and trends in employee performance and overall satisfaction. Using Exploratory Data Analysis, I will answer questions that these organizations are interested in. Datasets are fictional and created by IBM data scientists from **[Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)**
 
 The skills I've focused on in this project are data exploration and statistics with Python.
+
+### Project_4 - Healthcare Patient Experience
+The primary objective of this notebook is to identify the factors affecting patients' healthcare experience in hospitals across the United States.
+This analysis will focus on identifying the main elements influencing the Net Promoter Score (NPS) for patient satisfaction in various healthcare facilities. I will accomplish this by utilizing data visualisation processes and completing statistical tests to validate hypotheses based on data.
+
+A full documentation of this entire project can be read on **[Medium](https://medium.com/@beko50/patient-experience-analyzing-net-promoter-score-nps-trends-in-healthcare-facilities-in-the-u-s-72ef8eeb613a)**
+
 
