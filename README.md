@@ -16,6 +16,12 @@ I am currently working under contract as an HR Data Analyst at Gundersen Health 
 My data journey began right after I completed my Bachelor's degree in Computer Engineering at Kwame Nkrumah University of Science and Technology, Ghana. I took up a business intelligence bootcamp after which I had the chance to intern at Integral Ad Science, a media advertising company in the USA. During this role, after teaming up with the Data Team on several occasions for tasks and reports, it opened up my interest in the data exploration field. I then continued with the Google Data Analytics Professional certification and still learning more here.
 
 ## Projects
+### Project1_1 - Healthcare Patient Experience
+The primary objective of this notebook is to identify the factors affecting patients' healthcare experience in hospitals across the United States.
+This analysis will focus on identifying the main elements influencing the Net Promoter Score (NPS) for patient satisfaction in various healthcare facilities. I will accomplish this by utilizing data visualisation processes and completing statistical tests to validate hypotheses based on data.
+
+A full documentation of this entire project can be read on **[Medium](https://medium.com/@beko50/patient-experience-analyzing-net-promoter-score-nps-trends-in-healthcare-facilities-in-the-u-s-72ef8eeb613a)**
+
 ### Project_1 - FIFA World Cup Insights
 This is my very first project in my Data Analysis journey and being a huge football fan, I decided to start with the simplest datasets I found on **[Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset)** website, which contains all previous editions from 1930 to 2022. I went ahead with analyzing football in the 21st Century (2002-2022) because the game has vastly changed and these were the ones I experienced mostly. The FIFA World Cup tournament takes place every 4 years with 32 qualified countries worldwide partaking in it. I also added a new column 'Win Rate' to analyze the performance of these countries in a selected period. I started working with the datasets in Microsoft Excel before importing them into PostgreSQL and making visualizations with Tableau. 
 
@@ -29,10 +35,5 @@ In this HR analytics project using Python, the focus was on understanding employ
 
 The skills I've focused on in this project are data exploration and statistics with Python.
 
-### Project_4 - Healthcare Patient Experience
-The primary objective of this notebook is to identify the factors affecting patients' healthcare experience in hospitals across the United States.
-This analysis will focus on identifying the main elements influencing the Net Promoter Score (NPS) for patient satisfaction in various healthcare facilities. I will accomplish this by utilizing data visualisation processes and completing statistical tests to validate hypotheses based on data.
-
-A full documentation of this entire project can be read on **[Medium](https://medium.com/@beko50/patient-experience-analyzing-net-promoter-score-nps-trends-in-healthcare-facilities-in-the-u-s-72ef8eeb613a)**
 
 
